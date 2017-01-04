@@ -35,7 +35,7 @@ function mimix( attrs_list ){
     )
   }
 
-  return composite
+  return output
 }
 
 if( typeof module !== 'undefined' )
