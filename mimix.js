@@ -1,6 +1,6 @@
 function mimix( attrs_list ){
   var output = {}
-  var mashup = Object.assign.apply( Object, [ Object.create( null ) ].concat( attrs_list ) ).keys()
+  var mashup = Object.assign.apply( Object, [ {} ].concat( attrs_list ) ).keys()
 
   for( var key in mashup ){
     var values = attrs_list.map( function( x ){ x[ key ] } )
