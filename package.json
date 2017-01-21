@@ -1,0 +1,12 @@
+{
+  "devDependencies": {
+    "rollup": "^0.40.0",
+    "rollup-plugin-commonjs": "^7.0.0",
+    "rollup-plugin-node-resolve": "^2.0.0",
+    "wright": "porsager/Wright"
+  },
+  "dependencies": {
+    "mithril": "1.0.0-rc.7",
+    "tachyons": "^4.6.1"
+  }
+}
