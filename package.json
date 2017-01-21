@@ -1,0 +1,24 @@
+{
+  "name": "mimix",
+  "version": "0.0.1",
+  "description": "Compose Mithril components & vnodes",
+  "main": "mimix.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/barneycarroll/mimix.git"
+  },
+  "keywords": [
+    "mithril",
+    "plugin",
+    "mixin"
+  ],
+  "author": "Barney Carroll <barney.carroll@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/barneycarroll/mimix/issues"
+  },
+  "homepage": "https://github.com/barneycarroll/mimix#readme"
+}
