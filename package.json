@@ -1,6 +1,6 @@
 {
   "name": "mimix",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Compose Mithril components & vnodes",
   "main": "mimix.js",
   "scripts": {
