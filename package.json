@@ -3,6 +3,7 @@
   "version": "0.0.2",
   "description": "Compose Mithril components & vnodes",
   "main": "mimix.js",
+  "module": "mimix.esm.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
